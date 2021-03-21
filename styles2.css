@@ -152,6 +152,10 @@ a {
 	min-height: 8vh;
 }
 
+.up-btn i {
+	font-size: 4vh;
+}
+
 .whatsapp {
 	position:fixed;
   	width:60px;
